@@ -6,6 +6,10 @@ Neste workshop foi apresentado sobre a aplicação dos métodos de aprendizado d
 Este material aborda especificamente sobre **Seleção de Atributos** (*Feature Selection*), que são procedimentos que tenta reduzir
 a dimensionalidade dos dados retendo apenas aqueles atributos que sejam mais importantes na construção do modelo.
 
+## Material
+
+O arquivo workshop_BSC.ipynb pode ser aberto no ambiente Google Colab. Ele contém todo o roteiro utilizado durante o workshop.
+
 ## O evento
 
 O workshop Biologia Sistêmica do Câncer (BSC2019) aconteceu na Universidade Federal do Rio Grande do Norte no dia 29/11/2019.
